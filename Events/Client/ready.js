@@ -9,7 +9,7 @@ module.exports = {
   name: "ready",
   once: true,
   async execute(client) {
-    const webhookClient = new WebhookClient({ id: '1285123654392479746', token: 'BfYO7giBAyyINnGpZmOkOAm-77WZ8nJrVVtJntYi-AaSaDt7Ue6pv4Sx4laToXPkMgKr' });
+    const webhookClient = new WebhookClient({ id: '', token: '' });
     const mensaje = new EmbedBuilder()
       .setTitle(`**> Inicio de ${client.user.username}**`)
       .setDescription(`> **| Estado**: Activo\n> **| ${client.user.username}**\n> **| El bot se encendió el:** ${restart}\n> **| Tiempo conectado:** <t:${parseInt(Date.now() / 1000)}:R>\n> **| Versión de Discord.js:** V${djsversion}\n> **| Versión de Node.js:** ${process.version}\n\n***Se inició correctamente***`)
