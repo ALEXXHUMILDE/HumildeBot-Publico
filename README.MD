@@ -75,4 +75,4 @@ Genera el enlace de invitación desde el [Discord Developer Portal](https://disc
 ``/help``: Muestra todos los comandos disponibles organizados por categorías.
 
 ## Licencia
-Este proyecto está bajo la licencia MIT.
+Este proyecto está bajo la licencia Apache License 2.0.
