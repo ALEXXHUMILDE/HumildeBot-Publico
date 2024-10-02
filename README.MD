@@ -26,7 +26,7 @@ Sigue estos pasos para clonar y ejecutar **Humilde Bot** en tu propio servidor:
 ### Paso 1: Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/humilde-bot.git
+git clone https://github.com/ALEXXHUMILDE/HumildeBot-Publico.git
 cd humilde-bot
 ```
 
